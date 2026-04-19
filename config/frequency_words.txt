@@ -182,7 +182,7 @@
 
 /腾讯|鹅厂|马化腾|微信|QQ|天美|阅文集团|微众银行|\bTencent\b|\bPony Ma\b|\bWeChat\b|\bLightSpeed\b|\bWeBank\b/ => 腾讯
 
-/qwen|minimax|glm/ => 国产开源模型
+/qwen|minimax|glm|z.ai|deepseek/ => 国产开源模型
 
 /特斯拉|马斯克|\bTesla\b|\bElon Musk\b|\bCybertruck\b|\bModel 3\b|\bModel Y\b|\bModel S\b|\bModel X\b|\bFSD\b/ => 特斯拉
 
@@ -222,6 +222,19 @@
 
 印度
 
+[全球战争]
+伊以战争
+以伊战争
+霍尔木兹海峡
+俄乌战争
+乌克兰
+伊朗
+以色列
+巴基斯坦
+阿联酋
+沙特
+叙利亚
+黎巴嫩
 
 # ═══════════════════════════════════════════════════════════════
 #                         科技领域
